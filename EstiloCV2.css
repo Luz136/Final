@@ -151,8 +151,3 @@ h2 {
         font-size: 10px;
     }
 }
-@import
-    "base",
-    "layout",
-    "syntax-highlighting",
-    "bootstrap";
